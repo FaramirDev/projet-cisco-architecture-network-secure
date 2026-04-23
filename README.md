@@ -103,6 +103,10 @@ Chaque brique de l'architecture a été validée par des tests de rupture :
 Ce projet m'a permis de consolider ma capacité à concevoir des réseaux robustes en environnement Cisco. La complexité de l'interconnexion entre la redondance L2/L3 et les politiques de sécurité applicative (ACL/NAT) reflète les défis réels rencontrés en entreprise.
 
 ---
+---
+## Licence
+Ce projet est sous licence **Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)**.
+Toute utilisation commerciale est strictement interdite sans autorisation préalable. Consultez le fichier [LICENSE](./LICENSE) pour plus de détails.
 
 ---
 
